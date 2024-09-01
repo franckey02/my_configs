@@ -1,0 +1,10 @@
+#! /bin/bash
+#pulseaudio &
+pipewire &
+pipewire-pulse &
+nm-applet &
+tint2 &
+lxpolkit &
+modprobe tun && modprobe tap &
+#sudo usermod -aG dialout openvpn &
+pcmanfm --desktop &

@@ -1,0 +1,5 @@
+key "Alt+r" pavucontrol
+key "Super+Space" rofi -show drun
+key "Super+F" pcmanfm
+key "Super+w" waterfox
+key "Super+t" xfce4-terminal

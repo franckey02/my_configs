@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+adapted from Barry Kauler's stark-blueish
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+  <WindowStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Width>3</Width>
+    <Height>22</Height>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#F1F8FE</Background>
+      <Outline>#000000</Outline>
+    </Active>
+    <Foreground>#000000</Foreground>
+    <Background>#FCFEFF</Background>
+    <Outline>#000000</Outline>
+  </WindowStyle> 
+  <TaskListStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#F1F8FE</Background>
+    </Active>
+    <Background>#FFFFFF</Background>
+  </TaskListStyle>
+  <TrayStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#FFFFFF</Background>
+  </TrayStyle>
+  <PagerStyle>
+    <Outline>#000000</Outline>
+    <Foreground>#DCDAD5</Foreground>
+    <Background>#9898A8</Background>
+    <Active>
+      <Foreground>#F899CA</Foreground>
+      <Background>#DA4976</Background>
+    </Active>
+  </PagerStyle>
+  <PopupStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Outline>#000000</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#FFFF00</Background>
+  </PopupStyle>
+  <MenuStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#FFFFFF</Background>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#C1E0FA</Background>
+    </Active>
+  </MenuStyle>
+</JWM>

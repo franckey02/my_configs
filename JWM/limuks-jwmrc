@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+limuks by recobayu
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>6</Width>
+  <Height>27</Height>
+  <Foreground>#000</Foreground>
+  <Background>#EFEFFF</Background>
+  <Outline>#D1D1FD</Outline>
+  <Active>
+    <Foreground>#000</Foreground>
+    <Background>#A7C3E9</Background>
+    <Outline>#88B3ED</Outline>
+  </Active>
+</WindowStyle> 
+
+<TaskListStyle>
+  <Font>Sans-10</Font>
+  <Background>#DEE7F7:#A7C3E9</Background>
+  <Active>
+    <Foreground>#000</Foreground>
+    <Background>#A7C3E9:#76A6E9</Background>
+  </Active>
+</TaskListStyle>
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000</Foreground>
+  <Background>#DCDAF5</Background>
+</TrayStyle>
+
+<PagerStyle>
+  <Outline>#000</Outline>
+  <Foreground>#DCDAD5</Foreground>
+  <Background>#888888</Background>
+  <Active>
+    <Foreground>#8899AA</Foreground>
+    <Background>#3A4956</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#636163</Outline>
+  <Foreground>#000</Foreground>
+  <Background>#ffffe1</Background>
+</PopupStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000</Foreground>
+  <Background>#DCDAF5</Background>
+  <Outline>#88B3ED</Outline>
+  <Active>
+    <Foreground>black</Foreground>
+    <Background>#A7C3E9</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

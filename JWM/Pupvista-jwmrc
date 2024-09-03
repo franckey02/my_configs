@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from David Andrew's Pupvista -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#000</Foreground>
+    <Background>#fff:#C5C5C5</Background>         
+    <Outline>#6E7889</Outline>
+    <Active>
+      <Foreground>#fff</Foreground>
+      <Background>#939393:#000</Background>
+      <Outline>#000</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#fff</Foreground>
+    <Background>#939393:#000</Background>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#6495ed:#d1eeee</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#3B3B3B</Outline>
+    <Foreground>#CFCFCF</Foreground>
+    <Background>#7A7C7F</Background>
+    <Active>
+      <Foreground>#6495ed</Foreground>
+      <Background>#7dbdf3</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#6E7889</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#C3C3C3</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#fff</Foreground>
+    <Background>#555555</Background>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#6495ed:#d1eeee</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

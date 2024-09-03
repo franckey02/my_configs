@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from trapster's puppeee-blue -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#ADBDC9</Foreground>
+    <Background>#56687E:#56687E</Background>         
+    <Outline>#253651</Outline>
+    <Active>
+      <Foreground>#F2F2F2</Foreground>
+      <Background>#63aafa:#29243d</Background>
+      <Outline>#253651</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#2a4053</Background>
+    <Active>
+      <Foreground>#C9D4E2</Foreground>
+      <Background>#63aafa:#29243d</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>grey</Outline>
+    <Foreground>#56687E</Foreground>
+    <Background>#56687E</Background>
+    <Active>
+      <Foreground>#63aafa</Foreground>
+      <Background>#29243d</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#253651</Outline>
+    <Foreground>#63AAFA</Foreground>
+    <Background>#515e6d</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#F2F2F2</Foreground>
+    <Background>#495056</Background>
+    <Active>
+      <Foreground>#C9D4E2</Foreground>
+      <Background>#63aafa:#29243d</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

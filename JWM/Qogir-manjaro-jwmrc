@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<JWM>
+
+  <WindowStyle>
+    <Font>Cantarell-11:style=Regular</Font>
+    <Width>4</Width>
+    <Height>22</Height>
+    <Corner>4</Corner>
+    <Foreground>#ffffff</Foreground>
+    <Background>#333333:#253137</Background>
+    <Outline>#253137</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#253137:#333333</Background>
+      <Outline>#253137</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>Cantarell-11:style=Regular</Font>
+    <Foreground>#ffffff</Foreground>
+    <Background>#253137</Background>
+    <Outline>#253137</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#253137:#333333</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>grey</Outline>
+    <Foreground>#253137</Foreground>
+    <Background>#333333</Background>
+    <Active>
+      <Foreground>#253137</Foreground>
+      <Background>#333333</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Cantarell-11:style=Regular</Font>
+    <Outline>#253137</Outline>
+    <Foreground>#ffffff</Foreground>
+    <Background>#181920</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Cantarell-11:style=Regular</Font>
+    <Foreground>#ffffff</Foreground>
+    <Background>#253137</Background>
+    <Outline>#253137</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#253137:#333333</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

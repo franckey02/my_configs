@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+Nightly theme - Tman, 2011
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Height>25</Height>
+  <Foreground>#001D4D</Foreground>
+  <Background>#dddddd:#000F4D</Background>
+  <Outline>#000</Outline>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#dddddd:#001D4D</Background>
+    <Outline>#000</Outline>
+  </Active>
+</WindowStyle>
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#FFF</Foreground>
+  <Background>#0D1B30</Background>
+</TrayStyle>
+
+<TaskListStyle>
+  <Font>Sans-10</Font>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#eeeeee:#001D4D</Background>
+  </Active>
+  <Foreground>#505050</Foreground>
+  <Background>#FFF:#000F4D</Background>
+</TaskListStyle>
+
+<PagerStyle>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#1B3459</Background>
+  </Active>
+  <Foreground>#5F7690</Foreground>
+  <Background>#12243F</Background>
+</PagerStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#eeeeee:#001D4D</Background>
+  </Active>
+  <Foreground>#000</Foreground>
+  <Background>#8C99AA</Background>
+</MenuStyle>
+
+</JWM>

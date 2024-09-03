@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from `f00's modcopper -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>2</Width>
+    <Foreground>#fff</Foreground>
+    <Background>#B0B0B0:#666666</Background>         
+    <Outline>#666666</Outline>
+    <Active>
+      <Foreground>#20403D</Foreground>
+      <Background>#99664D:#FFD5B3</Background>
+      <Outline>#FFD5B3</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#fff</Foreground>
+    <Background>#333333</Background>
+    <Opacity>0.45</Opacity>
+    <Active>
+      <Foreground>#20403D</Foreground>
+      <Background>#E6B495</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#224D49</Outline>
+    <Foreground>#777777</Foreground>
+    <Background>#444444</Background>
+    <Active>
+      <Foreground>#FFE3CC</Foreground>
+      <Background>#CC8867</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#777777</Outline>
+    <Foreground>#FFE3CC</Foreground>
+    <Background>#777777</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#c7c7c7</Foreground>
+    <Background>#444444</Background>
+    <Active>
+      <Foreground>#20403D</Foreground>
+      <Background>#E6B495</Background>
+    </Active>
+    <Outline>#E6B495</Outline>
+    <Opacity>0.80</Opacity>
+  </MenuStyle>
+
+</JWM>

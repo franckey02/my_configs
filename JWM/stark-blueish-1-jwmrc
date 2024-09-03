@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+adapted from Barry Kauler's stark-blueish
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>6</Width>    
+    <Foreground>#000000</Foreground>
+    <Background>#FCFEFF</Background>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#F1F8FE</Background>
+      <Outline>#000000</Outline>
+  </Active>
+  </WindowStyle>
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#FFFFFF</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#000000</Foreground>
+    <Background>#A1D4F8</Background>
+  </Active>
+  </TrayStyle>
+  <PagerStyle>
+    <Outline>#000000</Outline>
+    <Foreground>#DCDAD5</Foreground>
+    <Background>#9898A8</Background>
+    <Active>
+      <Foreground>#F899CA</Foreground>
+    <Background>#DA4976</Background>
+  </Active>
+  </PagerStyle>
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#000000</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>yellow</Background>
+  </PopupStyle>
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#FFFFFF</Background>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#C1E0FA</Background>
+    </Active>
+    <Opacity>0.85</Opacity>
+  </MenuStyle>
+</JWM>

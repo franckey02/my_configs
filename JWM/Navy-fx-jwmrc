@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+Navy-fx - by Tman 2011
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Height>26</Height>
+  <Foreground>#143051</Foreground>
+  <Background>#384A65:#4C7093</Background> #385B83:#385B83
+  <Outline>#000</Outline>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#32455A:#A0C3E3</Background>
+    <Outline>#000</Outline>
+  </Active>
+</WindowStyle>
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#bebebe</Foreground>
+  <Background>#39516B</Background>
+</TrayStyle>
+
+<TaskListStyle>
+  <Font>Sans-10</Font>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#39516B:#7AAAD6</Background>
+  </Active>
+  <Background>#39516B:#557CA0</Background> #3578b7
+</TaskListStyle>
+
+<PagerStyle>
+  <Outline>#000</Outline>
+  <Foreground>#798796</Foreground>
+  <Background>#324964</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#546F8D</Background>
+  </Active>
+</PagerStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000</Foreground>
+  <Background>#bebebe</Background>#567A98
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#39516B:#7AAAD6</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>
+   <Tray height="30" x="0" y="-1">
+      <TrayButton icon="/home/estheryj/.kde.svg">
+         <Button mask="1">root:1</Button>
+         <Button mask="3">root:j</Button>
+      </TrayButton>
+      <Spacer width="1" />
+      <TrayButton icon="view-more-horizontal-symbolic.symbolic" popup="Show Desktop">showdesktop</TrayButton>
+      <Spacer width="250" />
+      <TaskList labeled="false" />
+      <Spacer width="5" />
+      <Dock />
+      <Spacer width="5" />
+      <Clock format="%l:%M %p">exec:jwmkit_calendar</Clock>
+      <Spacer width="5" />
+      <TrayButton icon="/usr/share/pixmaps/jwmkit/exitgray.svg">exec:jwmkit_logout</TrayButton>
+   </Tray>
+</JWM>

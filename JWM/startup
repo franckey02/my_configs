@@ -1,0 +1,4 @@
+<JWM>
+     <StartupCommand>exec nm-applet</StartupCommand>
+     <StartupCommand>exec pipewire &amp;&amp; pipewire-pulse</StartupCommand>
+</JWM>

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>
+   <Desktops width="1" height="1">
+      <Background type="image">/home/estheryj/Imágenes/miniJ.jpg</Background>
+   </Desktops>
+   <FocusModel>click</FocusModel>
+   <MoveMode coordinates="off">opaque</MoveMode>
+   <ResizeMode coordinates="off">opaque</ResizeMode>
+   <SnapMode distance="10">border</SnapMode>
+</JWM>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<JWM>   
+   <RootMenu onroot="1" height="32">      
+      <Separator />      
+      <Include>exec:jwmkit_easymenu -hc:Settings -nodubs -nokit</Include>      
+      <Separator />      
+      <Menu label="Exit" icon="go-previous-symbolic-rtl.symbolic">         <Restart icon="/usr/share/pixmaps/jwmkit/restartgray.svg" label="Refresh" tooltip="Restart JWM" />         
+         <Program icon="/usr/share/pixmaps/jwmkit/exitgray.svg" label="Logout" tooltip="Logout, Reboot, or Shutdown">jwmkit_logout</Program>         
+      </Menu>      
+   </RootMenu>   
+</JWM>

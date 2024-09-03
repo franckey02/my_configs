@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<JWM>
+   <IconPath>/usr/share/icons/Adwaita/24x24/categories</IconPath>
+   <IconPath>/usr/share/icons/Adwaita/24x24/actions</IconPath>
+   <IconPath>$HOME/.local/share/icons/Flat-Remix-Blue-Dark/apps/scalable</IconPath>
+   <IconPath>/usr/share/icons/gnome/24x24/categories</IconPath>
+   <IconPath>/usr/share/icons/gnome/24x24/actions</IconPath>
+   <IconPath>/usr/share/icons/gnome/24x24/mimetypes</IconPath>
+   <IconPath>/usr/share/icons/hicolor/32x32/apps</IconPath>
+   <IconPath>/usr/share/pixmaps/</IconPath>
+   <IconPath>/usr/share/pixmaps/jwmkit/</IconPath>
+   <IconPath>/usr/share/icons/hicolor/scalable/apps</IconPath>
+   <IconPath>$HOME/.local/share/icons/Flat-Remix-Blue-Dark</IconPath>
+</JWM>

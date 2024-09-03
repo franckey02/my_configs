@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<JWM> 
+<!-- 
+adapted from Tman's 444-Olive
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#201d15</Foreground>
+    <Background>#bfbfb8:#fffff8</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#201d15</Foreground>
+      <Background>#94a974:#d4e9b4</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#201d15</Foreground>
+    <Background>#ece9d8</Background>
+    <Active>
+      <Foreground>#201d15</Foreground>
+      <Background>#94a974:#d4e9b4</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#000000</Outline>
+    <Foreground>#ece9d8</Foreground>
+    <Background>#cdc7b0</Background>
+    <Active>
+      <Foreground>#201d15</Foreground>
+      <Background>#b4c994</Background>
+    </Active>
+  </PagerStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#201d15</Foreground>
+    <Background>#ece9d8</Background>
+    <Active>
+      <Foreground>#201d15</Foreground>
+      <Background>#d4e9b4:#94a974</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<JWM>
+   <!--
+   TITLE  :   ClearLooks, adapted from viper550
+   AUTHOR :   recobayu
+   Created:   101014
+   Version:   1.0
+   Updates:   none: first release.
+   JWM ver:   2.0
+   Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+   -->
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Height>22</Height>
+  <Foreground>#000</Foreground>
+  <Background>#DFDFFF:#A7C3E9</Background>
+  <Outline>#19184A</Outline>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#5598D7:#3C7CB7</Background>
+    <Outline>#000</Outline>
+  </Active>
+</WindowStyle>
+
+<TaskListStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000000</Foreground>
+  <Background>#EDE9E3:#CBE0F5</Background>
+  <Active>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#5295D5:#366CA0</Background>
+  </Active>
+</TaskListStyle>
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Height>24</Height>
+  <Foreground>#000000</Foreground>
+  <Background>#EDE9E3</Background>
+</TrayStyle>
+
+<PagerStyle>
+  <Outline>#EDE9E3#EDE9E3</Outline>
+  <Foreground>#5598D7</Foreground>
+  <Background>#B1A594</Background>
+  <Active>
+    <Foreground>#93C5F4</Foreground>
+    <Background>#3B6A97</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#000</Outline>
+  <Foreground>#000</Foreground>
+  <Background>#ffff00</Background>
+</PopupStyle>
+   
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000000</Foreground>
+  <Background>#EDE9E3</Background>
+  <Active>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#5295D5:#366CA0</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

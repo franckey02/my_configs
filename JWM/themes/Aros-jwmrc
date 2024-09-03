@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from David Andrew's AROS -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>8</Width>
+    <Foreground>#000000</Foreground>
+    <Background>#fbfeff:#b0bfde</Background>         
+    <Outline>#444f6b</Outline>
+    <Active><Foreground>#FFFFFF</Foreground>
+    <Background>#a8c2e7:#6c8abc</Background>
+    <Outline>#1d3c6a</Outline></Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#B4B4B4:#F0F0F0</Background>
+    <Active><Foreground>#FFFFFF</Foreground>
+    <Background>#4875B4:#8CB9F0</Background></Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#bebebe</Outline>
+    <Foreground>#F0F0F0</Foreground>
+    <Background>#B4B4B4</Background>
+    <Active><Foreground>#4875B4</Foreground>
+    <Background>#8CB9F0</Background></Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#88B5ED</Outline>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#8CB9F0</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#E5E5E5</Background>
+    <Active><Foreground>#FFFFFF</Foreground>
+    <Background>#4875B4:#8CB9F0</Background></Active>
+  </MenuStyle>
+
+</JWM>

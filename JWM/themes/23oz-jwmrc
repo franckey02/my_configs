@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<JWM> 
+<!-- 
+adapted from DaveS's jwm companion to Andrey Tverdov's 23oz gtk theme
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#000000</Foreground>
+    <Background>#EBE4E4:#C0BEBE</Background>
+    <Outline>#EBE4E4</Outline>
+    <Active>
+      <Foreground>#F8F1F1</Foreground>
+      <Background>Grey:#000000</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Active>
+      <Foreground>#F8F1F1</Foreground>
+      <Background>#C8C6C6:#000000</Background>
+    </Active>
+    <Foreground>#000000</Foreground>
+    <Background>#837F7f</Background>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#FFFFFF</Outline>
+    <Foreground>#C8C6C6</Foreground>
+    <Background>#9B9696</Background>
+    <Active>
+      <Foreground>#676262</Foreground>
+      <Background>#000000</Background>
+    </Active>
+  </PagerStyle>
+
+<PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#000000</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#C0BEBE</Background>
+</PopupStyle>
+
+<MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#837F7f</Background>
+    <Active>
+      <Foreground>#F8F1F1</Foreground>
+      <Background>#C8C6C6:#000000</Background>
+    </Active>
+</MenuStyle>
+
+</JWM>

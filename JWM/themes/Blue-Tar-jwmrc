@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from Dewbie's Blue-Tar -->
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Foreground>#a9b5c2</Foreground>
+  <Background>#3f6fa9:#6A99D4</Background>         
+  <Outline>#4e549f</Outline>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#6A99D4:#3f6fa9</Background>
+    <Outline>#4e549f</Outline></Active>
+</WindowStyle> 
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#a9b5c2</Foreground>
+  <Background>#000000</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#6A99D4:#3f6fa9</Background>
+  </Active>
+</TrayStyle>
+
+<PagerStyle>
+  <Outline>#bebebe</Outline>
+  <Foreground>#5593DE</Foreground>
+  <Background>#3f6fa9</Background>
+  <Active>
+    <Foreground>#3f6fa9</Foreground>
+    <Background>#6A99D4</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#4e549f</Outline>
+  <Foreground>#000000</Foreground>
+  <Background>#ffffff</Background>
+</PopupStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#a9b5c2</Foreground>
+  <Background>#000000</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#6A99D4:#3f6fa9</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

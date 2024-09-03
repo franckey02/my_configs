@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<JWM>
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Height>22</Height>
+  <Foreground>#4d4d4d</Foreground>
+  <Background>#549FC1:#C4C4C4</Background>         
+  <Outline>#4d4d4d</Outline>
+  <Active>
+    <Foreground>#000</Foreground>
+    <Background>#FFFFFF:#549FC1</Background>
+    <Outline>#000</Outline>
+  </Active>
+</WindowStyle> 
+
+<TaskListStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000</Foreground>
+  <Background>#549FC1:#393F96</Background>
+  <Active>
+    <Foreground>#FFF</Foreground>
+    <Background>#393F96:#30528D</Background>
+  </Active>
+</TaskListStyle>
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#FFF</Foreground>
+  <Background>#00225E</Background>
+</TrayStyle>
+
+<PagerStyle>
+  <Outline>#000</Outline>
+  <Foreground>#DCDAD5</Foreground>
+  <Background>#888888</Background>
+  <Active>
+    <Foreground>#8899AA</Foreground>
+    <Background>#3A4956</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#000</Outline>
+  <Foreground>#FFF</Foreground>
+  <Background>#00008b</Background>
+</PopupStyle>
+
+<MenuStyle>
+<Font>Sans-10</Font>
+<Foreground>#FFF</Foreground>
+<Background>#00225E</Background>
+  <Active>
+    <Foreground>#add8e6</Foreground>
+    <Background>#393F96:#396496</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

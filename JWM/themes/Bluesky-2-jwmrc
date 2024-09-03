@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<JWM>
+<!-- 
+TITLE: Bluesky - by Tman
+Modified: 2013 by BK
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+
+<WindowStyle>
+  <Font>DejaVu Sans-11:bold</Font>
+  <Width>2</Width>
+  <Height>26</Height>
+  <Foreground>#808080</Foreground>
+  <Background>#bfbfbf:#ffffff</Background>
+  <Outline>#000</Outline>
+  <Active>
+    <Foreground>#fff</Foreground>
+    <Background>#3578b7:#75b8f7</Background>
+    <Outline>#000</Outline>
+  </Active>
+</WindowStyle>
+
+<TaskListStyle>
+  <Font>DejaVu Sans-11</Font>
+  <Foreground>#000</Foreground>
+  <Background>#75b8f7:#94C6F5</Background>
+  <Active>
+    <Foreground>#fff</Foreground>
+    <Background>#3578b7:#65a8e7</Background>
+  </Active>
+</TaskListStyle>
+
+<TrayStyle>
+  <Font>DejaVu Sans-11:bold</Font>
+  <Foreground>#fff</Foreground>
+  <Background>#1580B6</Background>
+</TrayStyle>
+
+<TrayButtonStyle>
+  <Background>#B76F02:#DF9012</Background>
+</TrayButtonStyle>
+
+<PagerStyle>
+  <Outline>#000</Outline>
+  <Foreground>#f1efeb</Foreground>
+  <Background>#5598d7</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#94C6F5</Background>
+  </Active>
+</PagerStyle>
+
+<MenuStyle>
+  <Font>DejaVu Sans-11</Font>
+  <Foreground>#000</Foreground>
+  <Background>#9FC5EF</Background>
+  <Active>
+  <Foreground>#ffffff</Foreground>
+  <Background>#1D35B1:#A1C5FF</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

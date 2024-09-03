@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<JWM> 
+<!-- 444-Red by Tman
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+  <WindowStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Width>3</Width>
+    <Height>26</Height>
+    <Foreground>#000000</Foreground>
+    <Background>#bfbfbf:#ffffff</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#5c798d:#9cb9cd</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TaskListStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Foreground>#b0b0b0</Foreground>
+    <Background>#C72628:#621314</Background>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#621314:#DD1D16</Background>
+    </Active>
+  </TaskListStyle>
+
+  <TrayStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Foreground>#ffffff</Foreground>
+    <Background>#8D0D13</Background>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#000000</Outline>
+    <Foreground>#C8E4FF</Foreground>
+    <Background>#831D22</Background>
+    <Active>
+      <Foreground>#BEE4ED</Foreground>
+      <Background>#AF2323</Background>
+    </Active>
+  </PagerStyle>
+
+  <MenuStyle>
+    <Font>DejaVu Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#ece9d8</Background>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#9cb9cd:#5c798d</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

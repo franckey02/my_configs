@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<JWM>
+  <!-- 
+TITLE: Cloudy theme - 01micko, 2013, based on Nightly by Tman, 2011
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+ -->
+
+  <WindowStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Width>2</Width>
+    <Height>25</Height>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#495D7E:#dddddd</Background>
+      <Outline>black</Outline>
+    </Active>
+    <Foreground>#2E4460</Foreground>
+    <Background>#dddddd:#495D7E</Background>
+    <Outline>#000</Outline>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Foreground>#fff</Foreground>
+    <Background>#888F9A</Background>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Active>
+      <Foreground>#fff</Foreground>
+      <Background>#1B3459</Background>
+    </Active>
+    <Foreground>#5F7690</Foreground>
+    <Background>#12243F</Background>
+  </PagerStyle>
+
+  <MenuStyle>
+    <Font>DejaVu Sans-11</Font>
+    <Active>
+      <Foreground>#fff</Foreground>
+      <Background>#cccccc:#001D4D</Background>
+    </Active>
+    <Foreground>#000</Foreground>
+    <Background>#A2A7AD</Background>
+  </MenuStyle>
+
+</JWM>

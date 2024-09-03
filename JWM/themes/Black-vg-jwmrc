@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+TITLE: JWM-Vu-dark7373732
+JWM ver: v2.1 - mod by vg
+UPDATE 2015 jwm-2.3.2
+UPDATE 2022 by JWMKit for jwm-2.4.0 and jwmkit
+-->
+  <WindowStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Width>2</Width>
+    <Height>28</Height>
+    <Active>
+      <Foreground>#FFFF00</Foreground>
+      <Background>#9dbbdb:#000000</Background>
+    </Active>
+    <Foreground>#e5e5e5</Foreground>
+    <Background>#b3b3b3:#4d4d4d</Background>
+  </WindowStyle>
+  <TrayStyle>
+    <Font>DejaVu Sans-14:bold</Font>
+    <Foreground>#FFFF00</Foreground>
+    <Background>#4D525B</Background>
+  </TrayStyle>
+  <TrayButtonStyle> 
+    <Font>DejaVu Sans-12</Font> 
+    <Foreground>#FFFF00</Foreground> 
+    <Background>#7f7f7f:#1a1a1a</Background> 
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#999999:#333333</Background>
+    </Active>
+  </TrayButtonStyle>
+  <TaskListStyle>
+    <Font>DejaVu Sans-12</Font>
+    <Active>
+      <Foreground>#FFFF00</Foreground>
+      <Background>#7f7f7f:#1a1a1a</Background>
+    </Active>
+    <Foreground>#e5e5e5</Foreground>
+    <Background>#999999:#333333</Background>
+  </TaskListStyle>
+  <PagerStyle>
+    <Foreground>#b3b3b3</Foreground>
+    <Background>#737373</Background>
+    <Active>
+      <Foreground>#a6a6a6</Foreground>
+      <Background>#8c8c8c</Background>
+    </Active>
+  </PagerStyle>
+  <PopupStyle>
+    <Font>DejaVu Sans-11</Font>
+    <Outline>#000000</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>gold</Background>
+  </PopupStyle>
+  <MenuStyle>
+    <Font>DejaVu Sans-11</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#4D525B</Background>
+    <Active>
+      <Foreground>#FFFF00</Foreground>
+      <Background>#9dbbdb:#000000</Background>
+    </Active>
+  </MenuStyle>
+</JWM>

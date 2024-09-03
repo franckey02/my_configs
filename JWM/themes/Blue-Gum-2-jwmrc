@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from 01micko's bluegum -->
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Foreground>#C6E6E6</Foreground>
+  <Background>#010101:#7281A4</Background>         
+  <Outline>#000000</Outline>
+  <Active>
+    <Foreground>#FAFDFA</Foreground>
+    <Background>#7281A4:#010101</Background>
+    <Outline>#054755</Outline>
+  </Active>
+</WindowStyle> 
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#1B240A</Foreground>
+  <Background>#A3A3A3</Background>
+  <Active>
+    <Foreground>#FAFAFD</Foreground>
+    <Background>#7281A4:#010101</Background>
+  </Active>
+</TrayStyle>
+
+<PagerStyle>
+  <Outline>#C6E6E6</Outline>
+  <Foreground>#C6E6E6</Foreground>
+  <Background>#5A5A5A</Background>
+  <Active>
+    <Foreground>#7281A4</Foreground>
+    <Background>#010101</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#C6E6E6</Outline>
+  <Foreground>#C6E6E6</Foreground>
+  <Background>#010101</Background>
+</PopupStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#1B240A</Foreground>
+  <Background>#A3A3A3</Background>
+  <Active>
+    <Foreground>#FAFAFD</Foreground>
+    <Background>#7281A4:#010101</Background>
+  </Active>
+</MenuStyle>
+  
+</JWM>

@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<JWM>
+  <WindowStyle>
+    <Font>DejaVu Sans-12</Font>
+    <Height>22</Height>
+    <Width>3</Width>
+    <Foreground>#4D4D4D</Foreground>
+    <Background>#FFFFFF:#DEDFF7</Background>
+    <Outline>#4D4D4D</Outline>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#FFFFFF:#549FC1</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+  <TrayStyle>
+    <Font>DejaVu Sans-12</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#00225E</Background>
+    <Outline>#4D4D4D</Outline>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Outline>#000000</Outline>
+      <Background>#FFFFFF:#549FC1</Background>
+    </Active>
+  </TrayStyle>
+  <TaskListStyle>
+    <Font>DejaVu Sans-12</Font>
+    <Background>#549FC1:#393F96</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#393F96:#30528D</Background>
+    </Active>
+  </TaskListStyle>
+  <MenuStyle>
+    <Font>DejaVu Sans-12</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#E7EBF7</Background>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#E7F3F7:#94A2D6</Background>
+    </Active>
+  </MenuStyle>
+  <PagerStyle>
+    <Foreground>#DCDAD5</Foreground>
+    <Background>#888888</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#8899AA</Foreground>
+      <Background>#3A4956</Background>
+    </Active>
+  </PagerStyle>
+  <PopupStyle>
+    <Font>DejaVu Sans-12</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#549fc1</Background>
+    <Outline>#000000</Outline>
+  </PopupStyle>
+</JWM>

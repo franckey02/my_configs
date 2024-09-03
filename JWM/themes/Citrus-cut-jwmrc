@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from Barry Kauler's Citrus-cut -->
+
+  <WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Foreground>#aaaaaa</Foreground>
+  <Background>#fffa71:#ffda51</Background>
+  <Outline>#b3b3b3</Outline>
+  <Active>
+    <Foreground>#000</Foreground>
+    <Background>#ffda51:#ffa100</Background>
+    <Outline>#000</Outline>
+  </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000</Foreground>
+  <Background>#ffda51:#ffa100</Background>
+  <Active>
+    <Foreground>#000</Foreground>
+    <Background>#ffa100</Background>
+  </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+  <Outline>#000</Outline>
+  <Foreground>#ffc100</Foreground>
+  <Background>#ff8100</Background>
+  <Active>
+    <Foreground>#ff8100</Foreground>
+    <Background>#ffe85e</Background>
+  </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#000</Outline>
+  <Foreground>#000</Foreground>
+  <Background>#ffff00</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000</Foreground>
+  <Background>#ffda51</Background>
+  <Active>
+    <Foreground>#000</Foreground>
+    <Background>#ffda51:#ffa100</Background>
+  </Active>
+  </MenuStyle>
+
+</JWM>

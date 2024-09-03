@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<JWM>
+<!--
+adapted from TazOC's Dark-gradient-LHP
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Height>22</Height>
+  <Foreground>#000000</Foreground>
+  <Background>#d7cbcb:#2c1d1d</Background>
+  <Outline>#564141</Outline>
+  <Active>
+    <Foreground>#C3CDCE</Foreground>
+    <Background>#9f9191:#392d2d</Background>
+    <Outline>#564141</Outline>
+  </Active>
+</WindowStyle>
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000000</Foreground>
+  <Background>#b5a7a7</Background>
+</TrayStyle>
+
+<TaskListStyle>
+<Font>Sans-10</Font>
+<Background>#d7cbcb:#2c1d1d</Background>
+  <Active>
+    <Foreground>#C3CDCE</Foreground>
+    <Background>#9f9191:#392d2d</Background>
+  </Active>
+</TaskListStyle>
+
+<PagerStyle>
+  <Outline>#bebebe</Outline>
+  <Foreground>#2c1d1d</Foreground>
+  <Background>#d7cbcb</Background>
+  <Active>
+    <Foreground>#9f9191</Foreground>
+    <Background>#392d2d</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#564141</Outline>
+  <Foreground>#000000</Foreground>
+  <Background>#b0a4a4</Background>
+</PopupStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000000</Foreground>
+  <Background>#b5a7a7</Background>
+  <Active>
+    <Foreground>#C3CDCE</Foreground>
+    <Background>#9f9191:#392d2d</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

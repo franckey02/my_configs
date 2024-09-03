@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from David Andrew's Ambiance -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#CBCBCB</Foreground>
+    <Background>#4D4C48:#3B3A36</Background>         
+    <Outline>#45433E</Outline>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#5b5a54:#3c3b37</Background>
+      <Outline>#696051</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#CBCBCB</Foreground>
+    <Background>#5c5b56:#3c3b37</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#5C5B56:#3B3A36</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#bebebe</Outline>
+    <Foreground>#3B3A36</Foreground>
+    <Background>#4D4C48</Background>
+    <Active>
+      <Foreground>#5C5B56</Foreground>
+      <Background>#3B3A36</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#45433E</Outline>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#3B3A36</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#CBCBCB</Foreground>
+    <Background>#3B3A36</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#5C5B56:#3B3A36</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from autogestion's Aurora -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#ADADAD</Foreground>
+    <Background>#636363:#313131</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#757575:#000000</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#A2A2A2</Foreground>
+    <Background>#181920</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#212121:#3F3F3F</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>#BeBeBe</Outline>
+    <Foreground>#181920</Foreground>
+    <Background>#353746</Background>
+    <Active>
+      <Foreground>#d5dcf6</Foreground>
+      <Background>#1d2c53</Background>
+    </Active>
+  </PagerStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#A5A5A5</Foreground>
+    <Background>#181920</Background>
+    <Active>
+      <Foreground>#E2E2E2</Foreground>
+      <Background>#3F3F3F</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<JWM>
+<!-- 
+adapted from Tman's Bluesky
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+
+  <WindowStyle>
+    <Font>Sans-10:bold</Font>
+    <Width>3</Width>
+    <Foreground>#808080</Foreground>
+    <Background>#bfbfbf:#ffffff</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#3578b7:#75b8f7</Background>
+    <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#A1C9F4</Background>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#3578b7:#75b8f7</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#000000</Outline>
+    <Foreground>#f1efeb</Foreground>
+    <Background>#2f6ca4</Background>
+    <Active>
+      <Foreground>#5598D7</Foreground>
+      <Background>#255480</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#000000</Outline>
+    <Foreground>#000000</Foreground>
+    <Background>#CBE2F9</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#9FC5EF</Background>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#3578b7:#75b8f7</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

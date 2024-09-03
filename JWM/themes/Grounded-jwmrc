@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<JWM><!--
+Grounded theme - Tman, 2011
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit
+-->
+
+<WindowStyle>
+  <Font>DejaVu Sans-11</Font>
+  <Width>2</Width>
+  <Height>25</Height>
+  <Foreground>black</Foreground>
+  <Background>#837974:#C1BAB3</Background>
+  <Outline>#000</Outline>
+  <Active>
+    <Foreground>#fff</Foreground>
+    <Background>#837974:#C1BAB3</Background>
+    <Outline>#000</Outline>
+  </Active>
+</WindowStyle>
+
+<TrayStyle>
+  <Font>DejaVu Sans-11:bold</Font>
+  <Foreground>#fff</Foreground>
+  <Background>#151515</Background>#C1BAB3
+</TrayStyle>
+
+<TaskListStyle>
+  <Font>DejaVu Sans-11</Font>
+  <Foreground>#000</Foreground>
+  <Background>#837974:#C1BAB3</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#837974:#C1BAB3</Background>
+  </Active>
+</TaskListStyle>
+
+<PopupStyle>
+  <Font>tahoma-13</Font>
+  <Outline>#000</Outline>
+  <Foreground>#000</Foreground>
+  <Background>#EFEBDE</Background>
+</PopupStyle>
+
+<PagerStyle>
+  <Foreground>#999390</Foreground>
+  <Background>#252525</Background>
+  <Active>
+    <Foreground>#fff</Foreground>
+    <Background>#999390</Background>
+  </Active>
+</PagerStyle>
+
+<MenuStyle>
+  <Font>tahoma-13</Font>
+  <Foreground>#000</Foreground>
+  <Background>#D6CEC5</Background>
+  <Active>
+    <Foreground>#fff</Foreground>
+    <Background>#837974:#C1BAB3</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from Barry Kauler's Flat-grey -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#000</Foreground>
+    <Background>#D2D2D2</Background>         
+    <Outline>#000</Outline>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#A9A9A9</Background>
+      <Outline>#000</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000</Foreground>
+    <Background>#DCDAD5</Background>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#A9A9A9</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#000</Outline>
+    <Foreground>#DCDAD5</Foreground>
+    <Background>#888888</Background>
+    <Active>
+      <Foreground>#8899AA</Foreground>
+      <Background>#3A4956</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#000</Outline>
+    <Foreground>#000</Foreground>
+    <Background>#ffff00</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#000</Foreground>
+    <Background>#DCDAD5</Background>
+    <Active>
+      <Foreground>#000</Foreground>
+      <Background>#A9A9A9</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

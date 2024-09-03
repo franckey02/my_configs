@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<JWM>
+<!-- 
+adapted from Barry Kauler's DeepBlueBold
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit 
+-->
+  <WindowStyle> 
+    <Font>Sans-10</Font> 
+    <Width>3</Width> 
+    <Height>22</Height>    
+    <Active> 
+      <Foreground>#222222</Foreground> 
+      <Background>#888888:#D6DBDF</Background> 
+      <Outline>#777777</Outline> 
+    </Active> 
+    <Foreground>#555555</Foreground> 
+    <Background>#cccccc:#D6DBDF</Background>       
+    <Outline>#777777</Outline> 
+  </WindowStyle> 
+  <TaskListStyle> 
+    <Font>Sans-10</Font>
+    <Active>
+      <Foreground>#000000</Foreground>
+      <Background>#FFFFFF:#737373</Background>
+    </Active>
+    <Background>#FFFFFF:#A4A4A4</Background> 
+  </TaskListStyle> 
+  <TrayStyle> 
+    <Font>Sans-10</Font> 
+    <Foreground>#000000</Foreground> 
+    <Background>#DCDAD5</Background> 
+  </TrayStyle> 
+  <PagerStyle> 
+    <Outline>#000000</Outline> 
+    <Foreground>#DCDAD5</Foreground> 
+    <Background>#888888</Background> 
+    <Active>
+      <Foreground>#8899AA</Foreground> 
+      <Background>#3A4956</Background>
+    </Active>
+  </PagerStyle> 
+  <PopupStyle> 
+    <Font>Sans-10</Font> 
+    <Outline>#000000</Outline> 
+    <Foreground>#000000</Foreground> 
+    <Background>#FFFF00</Background> 
+  </PopupStyle> 
+  <MenuStyle> 
+    <Font>Sans-10</Font> 
+    <Foreground>#000000</Foreground> 
+    <Background>#DCDAD5</Background> 
+    <Active>
+      <Foreground>#000000</Foreground> 
+      <Background>#FFFFFF:#A4A4A4</Background>
+    </Active>
+  </MenuStyle> 
+ </JWM>

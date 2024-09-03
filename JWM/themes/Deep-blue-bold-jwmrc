@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<JWM>
+<!-- 
+adapted from Barry Kauler's DeepBlueBold
+Modified: 2022 by JWMKit for jwm 2.4.0 and jwmkit 
+-->
+  <WindowStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Height>22</Height>
+    <Width>3</Width>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#84CFF1:#393F96</Background>
+    <Outline>#4D4D4D</Outline>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#393F96:#30528D</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </WindowStyle>
+  <TrayStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#00225E</Background>
+    <Outline>#4D4D4D</Outline>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#393F96:#30528D</Background>
+      <Outline>#000000</Outline>
+    </Active>
+  </TrayStyle>
+  <TaskListStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Background>#393F96:#30528D</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#84CFF1:#393F96</Background>
+    </Active>
+  </TaskListStyle>
+  <MenuStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Foreground>#000000</Foreground>
+    <Background>#E7EBF7</Background>
+    <Active>
+      <Foreground>#FFFFFF</Foreground>
+      <Background>#393F96:#30528D</Background>
+    </Active>
+  </MenuStyle>
+  <PagerStyle>
+    <Foreground>#DCDAD5</Foreground>
+    <Background>#888888</Background>
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#8899AA</Foreground>
+      <Background>#3A4956</Background>
+    </Active>
+  </PagerStyle>
+  <PopupStyle>
+    <Font>DejaVu Sans-11:bold</Font>
+    <Foreground>#FFFFFF</Foreground>
+    <Background>#00008B</Background>
+    <Outline>#000000</Outline>
+  </PopupStyle>
+</JWM>

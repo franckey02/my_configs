@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from TazOC's Dark-gradient-LHP -->
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>4</Width>
+  <Foreground>#303030</Foreground>
+  <Background>#d7cbcb:#806565</Background>         
+  <Outline>#564141</Outline>
+  <Active>
+    <Foreground>#D0DBDC</Foreground>
+    <Background>#B8A7A7:#392d2d</Background>
+  <Outline>#564141</Outline>
+  </Active>
+</WindowStyle> 
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000000</Foreground>
+  <Background>#d7cbcb:#6B5555</Background>
+  <Active>
+    <Foreground>#D0DBDC</Foreground>
+    <Background>#B8A7A7:#171212</Background>
+  </Active>
+</TrayStyle>
+
+<PagerStyle>
+  <Font>Sans-10</Font>
+  <Outline>#bebebe</Outline>
+  <Foreground>#2c1d1d</Foreground>
+  <Background>#d7cbcb</Background>
+  <Active>
+    <Foreground>#B8A7A7</Foreground>
+    <Background>#392d2d</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Outline>#564141</Outline>
+  <Foreground>#000000</Foreground>
+  <Background>#b0a4a4</Background>
+</PopupStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#000000</Foreground>
+  <Background>#CCBCBC</Background>
+  <Active>
+    <Foreground>#D0DBDC</Foreground>
+    <Background>#B8A7A7:#392d2d</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

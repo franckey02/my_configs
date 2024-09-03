@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from 01micko's Eucalyptus -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#b8ed48</Foreground>
+    <Background>#010101:#74A604</Background>         
+    <Outline>#000000</Outline>
+    <Active>
+      <Foreground>#fafdfa</Foreground>
+      <Background>#74A604:#010101</Background>
+      <Outline>#3C5505</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Active>
+      <Foreground>#fafdfa</Foreground>
+      <Background>#74A604:#010101</Background>
+    </Active>
+    <Foreground>#1B240A</Foreground>
+    <Background>#6C746F</Background>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>#b8ed48</Outline>
+    <Foreground>#b8ed48</Foreground>
+    <Background>#010101</Background>
+    <Active>
+      <Foreground>#4B6C02</Foreground>
+      <Background>#81B01F</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>#b8ed48</Outline>
+    <Foreground>#b8ed48</Foreground>
+    <Background>#010101</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>#1B240A</Foreground>
+    <Background>#6C746F</Background>
+    <Active>
+      <Foreground>#fafdfa</Foreground>
+      <Background>#74A604:#010101</Background>
+    </Active>
+  </MenuStyle>
+    
+</JWM>

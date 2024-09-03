@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from 01micko's DGmod -->
+
+<WindowStyle>
+  <Font>Sans-10</Font>
+  <Width>3</Width>
+  <Foreground>#b1c6c8</Foreground>
+  <Background>#2f494d:#3f7f76</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#3F7F76:#000000</Background>
+  </Active>         
+</WindowStyle> 
+
+<TrayStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#b1c6c8</Foreground>
+  <Background>#000000</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#3F7F76:#000000</Background>
+  </Active>
+</TrayStyle>
+
+<PagerStyle>
+  <Foreground>#3f7f76</Foreground>
+  <Background>#2f494d</Background>
+  <Active>
+    <Foreground>#000000</Foreground>
+    <Background>#6399A2</Background>
+  </Active>
+</PagerStyle>
+
+<PopupStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#b1c6c8</Foreground>
+  <Background>#204a4a</Background>
+</PopupStyle>
+
+<MenuStyle>
+  <Font>Sans-10</Font>
+  <Foreground>#b1c6c8</Foreground>
+  <Background>#000000</Background>
+  <Active>
+    <Foreground>#ffffff</Foreground>
+    <Background>#3F7F76:#000000</Background>
+  </Active>
+</MenuStyle>
+
+</JWM>

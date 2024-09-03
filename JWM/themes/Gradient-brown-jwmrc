@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<JWM> <!-- adapted from TazOC's Gradient-brown-LHP -->
+
+  <WindowStyle>
+    <Font>Sans-10</Font>
+    <Width>3</Width>
+    <Foreground>#5C5751</Foreground>
+    <Background>#FFFFFF:#948D8A</Background>         
+    <Outline>black</Outline>
+    <Active>
+      <Foreground>black</Foreground>
+      <Background>#FFFFFF:#CCB195</Background>
+      <Outline>black</Outline>
+    </Active>
+  </WindowStyle> 
+
+  <TrayStyle>
+    <Font>Sans-10</Font>
+    <Foreground>black</Foreground>
+    <Background>#FFFFFF:#D1C7C2</Background>
+    <Active>
+      <Foreground>black</Foreground>
+      <Background>#FFFFFF:#8A776B</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Font>Sans-10</Font>
+    <Outline>black</Outline>
+    <Foreground>#E3CDC3</Foreground>
+    <Background>#C2A397</Background>
+    <Active>
+      <Foreground>#BFAF9D</Foreground>
+      <Background>#87685C</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10</Font>
+    <Outline>black</Outline>
+    <Foreground>black</Foreground>
+    <Background>yellow</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-10</Font>
+    <Foreground>black</Foreground>
+    <Background>#E3D7CA</Background>
+    <Active>
+      <Foreground>black</Foreground>
+      <Background>#FFFFFF:#C2A07C</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

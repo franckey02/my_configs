@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<JWM>
+
+  <WindowStyle>
+    <Font>Sans-11:style=Regular</Font>
+    <Width>4</Width>
+    <Height>24</Height>
+    <Corner>4</Corner>
+    <Foreground>#ffffff</Foreground>
+    <Background>#323538:#323538</Background>
+    <Outline>#323538</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#323538:#475057</Background>
+      <Outline>#323538</Outline>
+    </Active>
+  </WindowStyle>
+
+  <TrayStyle>
+    <Font>Sans-10:style=Regular</Font>
+    <Foreground>#ffffff</Foreground>
+    <Background>#323538</Background>
+    <Outline>#323538</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#323538:#475057</Background>
+    </Active>
+  </TrayStyle>
+
+  <PagerStyle>
+    <Outline>grey</Outline>
+    <Foreground>#323538</Foreground>
+    <Background>#323538</Background>
+    <Active>
+      <Foreground>#323538</Foreground>
+      <Background>#475057</Background>
+    </Active>
+  </PagerStyle>
+
+  <PopupStyle>
+    <Font>Sans-10:style=Regular</Font>
+    <Outline>#323538</Outline>
+    <Foreground>#ffffff</Foreground>
+    <Background>#323538</Background>
+  </PopupStyle>
+
+  <MenuStyle>
+    <Font>Sans-11:style=Regular</Font>
+    <Foreground>#ffffff</Foreground>
+    <Background>#323538</Background>
+    <Outline>#323538</Outline>
+    <Active>
+      <Foreground>#ffffff</Foreground>
+      <Background>#323538:#475057</Background>
+    </Active>
+  </MenuStyle>
+
+</JWM>

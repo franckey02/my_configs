@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Icon=/usr/share/icons/log.ico
+Exec=/home/estheryj/Documentos/logout/lout/logout_app_op
+Name=LogOUT-op
+Categories=GTK;Settings;DesktopSettings

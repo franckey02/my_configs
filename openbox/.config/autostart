@@ -1,0 +1,10 @@
+pcmanfm --desktop &
+tint2 &
+nm-applet &
+lxpolkit &
+picom &
+pulseaudio &
+
+
+
+
